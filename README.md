@@ -1,37 +1,56 @@
 # Oumaima Ben Noureddine
 
-Hello — I'm Oumaima (bennour-oumaima on GitHub). I'm a motivated software enthusiast with experience in web development, automation and a strong foundation in computer science. This repository hosts my public CV, projects and links to other work.
+<p align="center">
+  <a href="mailto:oumaimabennourddine@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/bennour-oumaima"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ## About me
 
-I enjoy building practical and elegant solutions. I focus on learning, collaboration, and delivering projects that solve real problems. I speak French and English and am comfortable working in multicultural teams.
 
-## Contact
+
+- Location: Tunisia
+- Languages: French, English, Arabic
+
+## Technical summary
+
+
+
+## Highlights (from CV)
+
+- 
+
+## Selected projects
+
+I keep my projects in this GitHub account. A few examples (public repos):
+
+- Embedded firmware examples (sensors, UART, I2C)
+- Small Python utilities and prototypes
+- Electronics prototypes and KiCad designs
+
+(If you want, I can add a Projects section that links to specific repos or add awesome project cards.)
+
+## What I'm learning / interested in
+
+
+
+## How to reach me
 
 - Email: oumaimabennourddine@gmail.com
-- GitHub: [bennour-oumaima](https://github.com/bennour-oumaima)
+- GitHub: https://github.com/bennour-oumaima
+- (Optional) LinkedIn: add your LinkedIn URL here
 
-## Quick links
+---
 
-- CV: [cv_Oumaima_Ben_Noureddine.pdf](./cv_Oumaima_Ben_Noureddine.pdf)
-- Other projects & highlights: see repository [bennour-oumaima/amaraoussama94](https://github.com/bennour-oumaima/amaraoussama94) for additional work and "fincy" / fancy examples referenced in my profile.
+## README Extras (optional widgets)
 
-## Skills
+You can enable these by adding the GitHub username in the badges below.
 
-- Languages: JavaScript, Python, SQL (add others as needed)
-- Web: HTML, CSS, React, Node.js
-- Tools: Git, Docker, CI/CD basics
-- Concepts: REST APIs, automation, unit testing, responsive design
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bennour-oumaima&show_icons=true&theme=radical)
 
-> Tip: Update this section to list the specific technologies you want to highlight.
+---
 
-## Experience & Education
+Thanks for stopping by 👋
 
-Briefly summarize your most relevant roles, internships, or education here. Example:
-
-- Internship or project experience in web development and automation
-- Degree or coursework in Computer Science (add specifics)
-
-## Featured projects
-
-
+<!-- If you'd like, I can expand this README with: projects list (with repo links), CV summary (education/experience), badges for languages and tools, or a fancy animated header modeled after the sample you provided. -->
