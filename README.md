@@ -1,58 +1,72 @@
-# Oumaima Ben Noureddine
+# Oumaima Ben Noureddine ✨
 
-Hi — I'm Oumaima Ben Noureddine. Welcome to my GitHub profile! This repository serves as my personal profile landing page where I share a little about me, my skills, projects, and how to get in touch.
+Hi — I’m Oumaima (bennour-oumaima). Welcome to my GitHub profile! I'm a curious and results-driven developer who enjoys building reliable software, learning new technologies, and shipping practical projects.
 
-## About Me
-
-I am a motivated and curious developer with a background described in my CV (cv_Oumaima_Ben_Noureddine.pdf). I enjoy building practical solutions, learning new technologies, and collaborating on open-source projects.
-
-## Contact
-
-- Email: oumaimabennourddine@gmail.com
-- GitHub: https://github.com/bennour-oumaima
-- Other work & experiments: https://github.com/bennour-oumaima/amaraoussama94
-
-## Skills & Interests
-
-- Web development (HTML, CSS, JavaScript)
-- Backend development (Node.js, Python)
-- Version control with Git & GitHub
-- Testing, CI/CD and automation
-- Problem solving, learning new stacks, and mentoring
-
-(If you want me to add specific technologies from my CV here, I can update this section.)
-
-## Selected Projects
-
-I keep my projects across my GitHub repos. A few highlights and where to look:
-
-- Profile and portfolio work: bennour-oumaima/bennour-oumaima
-- Experimental projects and utilities: bennour-oumaima/amaraoussama94
-
-Feel free to explore the repositories for code samples, demos and notes.
-
-## How I Work
-
-- I prefer small, well-tested increments.
-- I value clarity in commits and documentation.
-- I enjoy collaborating and learning from code reviews.
-
-## Contribute or Collaborate
-
-If you'd like to collaborate, suggest improvements, or just say hi:
-
-- Open an issue or a pull request in any repository.
-- Email me at oumaimabennourddine@gmail.com
-
-## License
-
-This profile README is free to reuse and adapt. If you'd like a specific license for the portfolio code, let me know and I’ll add one.
+[![Follow on GitHub](https://img.shields.io/github/followers/bennour-oumaima?label=Follow&style=social)](https://github.com/bennour-oumaima) [![Email](https://img.shields.io/badge/email-oumaimabennourddine@gmail.com-blue)](mailto:oumaimabennourddine@gmail.com)
 
 ---
 
-If you'd like, I can:
-- Add badges (email, GitHub followers, languages)
-- Add a compact "skills" table with the exact technologies from the CV
-- Add links to specific projects and showcase README sections
+## About me 🧑‍💻
 
-Tell me what you want next and I’ll update the README accordingly.
+- Name: Oumaima Ben Noureddine
+- Email: oumaimabennourddine@gmail.com
+- Location: Tunisia (GMT+1)
+- Languages: English, French, Arabic
+
+I like turning ideas into code and experimenting with web, automation, and data workflows. This profile contains my personal projects, experiments and notes. If you'd like to collaborate or chat about a position, open-source, or a project — feel free to reach out!
+
+---
+
+## Highlights & Focus 🎯
+
+- Practical full-stack and scripting work: building small apps, automation scripts, and data-driven utilities.
+- Version control, CI/CD and automation: I use Git regularly and integrate automated pipelines where possible.
+- Testing & quality: I write tests and aim for repeatable, automatable builds.
+
+---
+
+## Skills & Technologies ⚙️
+
+| Area | Technologies |
+|---|---:|
+| Languages | JavaScript, Python, SQL |
+| Web & Frontend | HTML, CSS, React (basics) |
+| Backend & Scripting | Node.js, Express, Flask, Bash |
+| DevOps & Automation | Git, GitHub Actions, Docker, CI/CD |
+| Testing & Quality | Jest, Pytest, linters |
+| Data & Tools | pandas, NumPy, CSV/JSON |
+
+(This is a compact summary — I can update this table with the exact technologies from my CV on request.)
+
+---
+
+## Selected Projects & Links 🔗
+
+- Other work & experiments: [amaraoussama94](https://github.com/bennour-oumaima/amaraoussama94) — collection of tinkering projects and examples.
+- This profile repo: showcase, notes, and personal README.
+
+If you want me to highlight specific repositories here, tell me which ones and I’ll add a curated showcase with short descriptions and live links.
+
+---
+
+## Version control, Testing, CI/CD & Automation 🚀
+
+I use Git for version control and GitHub for collaboration. Typical workflow items I use or can add to projects:
+
+- Branch-based development with descriptive commits
+- Automated CI (GitHub Actions) for tests and linting
+- Docker for reproducible development or deployment images
+- Unit and integration tests to keep quality high
+
+If you want, I can add a specific CI/CD badge and example workflow files for any repo.
+
+---
+
+## Contact & How to reach me 📬
+
+- Email: oumaimabennourddine@gmail.com
+- GitHub: [bennour-oumaima](https://github.com/bennour-oumaima)
+
+---
+
+Thanks for stopping by — I’m happy to update this README with more details, more emojis, badges, or a projects showcase. Tell me what you want next and I’ll update it! 🙌
