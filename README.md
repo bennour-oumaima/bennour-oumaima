@@ -34,21 +34,4 @@ Briefly summarize your most relevant roles, internships, or education here. Exam
 
 ## Featured projects
 
-- Project A — short description and link (add real project names and links)
-- Project B — short description and link
-- Explore more in the repository [bennour-oumaima/amaraoussama94](https://github.com/bennour-oumaima/amaraoussama94)
 
-## How to use this repo
-
-- The PDF resume is available at `./cv_Oumaima_Ben_Noureddine.pdf` — open or download it to see full details.
-- Add or edit projects and descriptions by forking and opening a pull request.
-
-## Next steps (suggestions)
-
-- Add an English and French short bio in `README.md` and in your CV file.
-- Link to live demos or screenshots for highlighted projects.
-- Keep the skills list up to date with technologies you use regularly.
-
----
-
-If you want, I can refine this README with exact project names, dates, or translate parts into French. Just tell me which details to include or correct.
