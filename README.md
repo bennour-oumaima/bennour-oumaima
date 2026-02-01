@@ -1,68 +1,54 @@
 # Oumaima Ben Noureddine
 
-<p align="center">
-  <a href="mailto:oumaimabennourddine@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/bennour-oumaima"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+Hello — I'm Oumaima (bennour-oumaima on GitHub). I'm a motivated software enthusiast with experience in web development, automation and a strong foundation in computer science. This repository hosts my public CV, projects and links to other work.
 
 ## About me
 
-I am Oumaima Ben Noureddine — an embedded systems enthusiast with strong foundations in C and C++. I work on microcontroller projects, firmware, and small-scale electronics. I enjoy building hardware + software systems and learning AI tools that complement embedded development.
+I enjoy building practical and elegant solutions. I focus on learning, collaboration, and delivering projects that solve real problems. I speak French and English and am comfortable working in multicultural teams.
 
-- Location: Tunisia
-- Languages: French, English, Arabic
-
-## Technical summary
-
-- Programming: C, C++, Python
-- Embedded: ARM Cortex (STM32), Arduino, Raspberry Pi
-- Tools: Keil, STM32CubeMX, VS Code, Git
-- Electronics / EDA: KiCad
-- RTOS & protocols: FreeRTOS, I2C, UART/USART, SPI
-- AI / CV: OpenCV (basic experiments)
-- GUI: Tkinter, Qt (basic)
-
-## Highlights (from CV)
-
-- Firmware development for microcontrollers (C/C++)
-- PCB design and basic electronic prototyping
-- Small projects combining sensors, serial comms and control loops
-- Comfortable on Linux and Windows development environments
-
-## Selected projects
-
-I keep my projects in this GitHub account. A few examples (public repos):
-
-- Embedded firmware examples (sensors, UART, I2C)
-- Small Python utilities and prototypes
-- Electronics prototypes and KiCad designs
-
-(If you want, I can add a Projects section that links to specific repos or add awesome project cards.)
-
-## What I'm learning / interested in
-
-- Real-time systems and RTOS patterns
-- Low-power embedded design
-- Applying lightweight ML / TinyML to microcontroller devices
-- Improving C++ embedded idioms and safer firmware patterns
-
-## How to reach me
+## Contact
 
 - Email: oumaimabennourddine@gmail.com
-- GitHub: https://github.com/bennour-oumaima
-- (Optional) LinkedIn: add your LinkedIn URL here
+- GitHub: [bennour-oumaima](https://github.com/bennour-oumaima)
+
+## Quick links
+
+- CV: [cv_Oumaima_Ben_Noureddine.pdf](./cv_Oumaima_Ben_Noureddine.pdf)
+- Other projects & highlights: see repository [bennour-oumaima/amaraoussama94](https://github.com/bennour-oumaima/amaraoussama94) for additional work and "fincy" / fancy examples referenced in my profile.
+
+## Skills
+
+- Languages: JavaScript, Python, SQL (add others as needed)
+- Web: HTML, CSS, React, Node.js
+- Tools: Git, Docker, CI/CD basics
+- Concepts: REST APIs, automation, unit testing, responsive design
+
+> Tip: Update this section to list the specific technologies you want to highlight.
+
+## Experience & Education
+
+Briefly summarize your most relevant roles, internships, or education here. Example:
+
+- Internship or project experience in web development and automation
+- Degree or coursework in Computer Science (add specifics)
+
+## Featured projects
+
+- Project A — short description and link (add real project names and links)
+- Project B — short description and link
+- Explore more in the repository [bennour-oumaima/amaraoussama94](https://github.com/bennour-oumaima/amaraoussama94)
+
+## How to use this repo
+
+- The PDF resume is available at `./cv_Oumaima_Ben_Noureddine.pdf` — open or download it to see full details.
+- Add or edit projects and descriptions by forking and opening a pull request.
+
+## Next steps (suggestions)
+
+- Add an English and French short bio in `README.md` and in your CV file.
+- Link to live demos or screenshots for highlighted projects.
+- Keep the skills list up to date with technologies you use regularly.
 
 ---
 
-## README Extras (optional widgets)
-
-You can enable these by adding the GitHub username in the badges below.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bennour-oumaima&show_icons=true&theme=radical)
-
----
-
-Thanks for stopping by 👋
-
-<!-- If you'd like, I can expand this README with: projects list (with repo links), CV summary (education/experience), badges for languages and tools, or a fancy animated header modeled after the sample you provided. -->
+If you want, I can refine this README with exact project names, dates, or translate parts into French. Just tell me which details to include or correct.
