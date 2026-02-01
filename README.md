@@ -1,72 +1,68 @@
-# Oumaima Ben Noureddine ✨
+# Oumaima Ben Noureddine
 
-Hi — I’m Oumaima (bennour-oumaima). Welcome to my GitHub profile! I'm a curious and results-driven developer who enjoys building reliable software, learning new technologies, and shipping practical projects.
+<p align="center">
+  <a href="mailto:oumaimabennourddine@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/bennour-oumaima"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-[![Follow on GitHub](https://img.shields.io/github/followers/bennour-oumaima?label=Follow&style=social)](https://github.com/bennour-oumaima) [![Email](https://img.shields.io/badge/email-oumaimabennourddine@gmail.com-blue)](mailto:oumaimabennourddine@gmail.com)
+## About me
 
----
+I am Oumaima Ben Noureddine — an embedded systems enthusiast with strong foundations in C and C++. I work on microcontroller projects, firmware, and small-scale electronics. I enjoy building hardware + software systems and learning AI tools that complement embedded development.
 
-## About me 🧑‍💻
+- Location: Tunisia
+- Languages: French, English, Arabic
 
-- Name: Oumaima Ben Noureddine
-- Email: oumaimabennourddine@gmail.com
-- Location: Tunisia (GMT+1)
-- Languages: English, French, Arabic
+## Technical summary
 
-I like turning ideas into code and experimenting with web, automation, and data workflows. This profile contains my personal projects, experiments and notes. If you'd like to collaborate or chat about a position, open-source, or a project — feel free to reach out!
+- Programming: C, C++, Python
+- Embedded: ARM Cortex (STM32), Arduino, Raspberry Pi
+- Tools: Keil, STM32CubeMX, VS Code, Git
+- Electronics / EDA: KiCad
+- RTOS & protocols: FreeRTOS, I2C, UART/USART, SPI
+- AI / CV: OpenCV (basic experiments)
+- GUI: Tkinter, Qt (basic)
 
----
+## Highlights (from CV)
 
-## Highlights & Focus 🎯
+- Firmware development for microcontrollers (C/C++)
+- PCB design and basic electronic prototyping
+- Small projects combining sensors, serial comms and control loops
+- Comfortable on Linux and Windows development environments
 
-- Practical full-stack and scripting work: building small apps, automation scripts, and data-driven utilities.
-- Version control, CI/CD and automation: I use Git regularly and integrate automated pipelines where possible.
-- Testing & quality: I write tests and aim for repeatable, automatable builds.
+## Selected projects
 
----
+I keep my projects in this GitHub account. A few examples (public repos):
 
-## Skills & Technologies ⚙️
+- Embedded firmware examples (sensors, UART, I2C)
+- Small Python utilities and prototypes
+- Electronics prototypes and KiCad designs
 
-| Area | Technologies |
-|---|---:|
-| Languages | JavaScript, Python, SQL |
-| Web & Frontend | HTML, CSS, React (basics) |
-| Backend & Scripting | Node.js, Express, Flask, Bash |
-| DevOps & Automation | Git, GitHub Actions, Docker, CI/CD |
-| Testing & Quality | Jest, Pytest, linters |
-| Data & Tools | pandas, NumPy, CSV/JSON |
+(If you want, I can add a Projects section that links to specific repos or add awesome project cards.)
 
-(This is a compact summary — I can update this table with the exact technologies from my CV on request.)
+## What I'm learning / interested in
 
----
+- Real-time systems and RTOS patterns
+- Low-power embedded design
+- Applying lightweight ML / TinyML to microcontroller devices
+- Improving C++ embedded idioms and safer firmware patterns
 
-## Selected Projects & Links 🔗
-
-- Other work & experiments: [amaraoussama94](https://github.com/bennour-oumaima/amaraoussama94) — collection of tinkering projects and examples.
-- This profile repo: showcase, notes, and personal README.
-
-If you want me to highlight specific repositories here, tell me which ones and I’ll add a curated showcase with short descriptions and live links.
-
----
-
-## Version control, Testing, CI/CD & Automation 🚀
-
-I use Git for version control and GitHub for collaboration. Typical workflow items I use or can add to projects:
-
-- Branch-based development with descriptive commits
-- Automated CI (GitHub Actions) for tests and linting
-- Docker for reproducible development or deployment images
-- Unit and integration tests to keep quality high
-
-If you want, I can add a specific CI/CD badge and example workflow files for any repo.
-
----
-
-## Contact & How to reach me 📬
+## How to reach me
 
 - Email: oumaimabennourddine@gmail.com
-- GitHub: [bennour-oumaima](https://github.com/bennour-oumaima)
+- GitHub: https://github.com/bennour-oumaima
+- (Optional) LinkedIn: add your LinkedIn URL here
 
 ---
 
-Thanks for stopping by — I’m happy to update this README with more details, more emojis, badges, or a projects showcase. Tell me what you want next and I’ll update it! 🙌
+## README Extras (optional widgets)
+
+You can enable these by adding the GitHub username in the badges below.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bennour-oumaima&show_icons=true&theme=radical)
+
+---
+
+Thanks for stopping by 👋
+
+<!-- If you'd like, I can expand this README with: projects list (with repo links), CV summary (education/experience), badges for languages and tools, or a fancy animated header modeled after the sample you provided. -->
